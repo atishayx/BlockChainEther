@@ -1,1 +1,1 @@
-# BlockChainEther
+Ether Funding Alliance
